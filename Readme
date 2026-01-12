@@ -1,0 +1,6 @@
+open ex folder
+git pull 
+make changes
+git add .
+git commit
+git push origin main
