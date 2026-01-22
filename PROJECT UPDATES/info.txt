@@ -1,0 +1,8 @@
+Problem it solves:
+The existing music streaming market consists of a duoploly, dominated by two large paid platforms like YT music and Spotify. 
+Our platform provides an open source, free, feature loaded alternative music streaming to the duopoly. 
+The market for song uploading is also controlled by a single company Sound Cloud, our platform allows users to upload their 
+own music without any paywall or issues. 
+Our platform also includes a messaging feature that allows different users to communicate with each other and share their 
+messages and playlists.
+
